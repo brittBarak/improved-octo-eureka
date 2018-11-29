@@ -1,2 +1,2 @@
 # improved-octo-eureka
-Loran workshop!
+Lorna workshop!
